@@ -14,5 +14,4 @@ A website that offers fitness training services.
 https://yu-chengfan.github.io/Run-Buddy/
 
 ## Contribution
-Made with ❤️ by Kevin Fangit 
-ssgit hfdosphafheowqhfow
+Made with ❤️ by Kevin Fan
