@@ -15,3 +15,4 @@ https://yu-chengfan.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Kevin Fangit 
+ssgit 
